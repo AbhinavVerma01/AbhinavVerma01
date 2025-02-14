@@ -11,7 +11,7 @@ I'm a passionate software developer with a strong interest in web development, o
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with advanced JavaScript concepts
 - 💬 Ask me about JavaScript, HTML, CSS, and web development in general
-- 📫 How to reach me: [Abhinav verma](mailto:abhinav.verma@example.com)
+- 📫 How to reach me: [Abhinav verma](mailto:av438639@gmail.com)
 - ⚡ Fun fact: I love hiking and photography
 
 ## My Skills
