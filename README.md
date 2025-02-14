@@ -11,7 +11,7 @@ I'm a passionate software Engineer  with a strong interest in web development, o
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with advanced Python concepts
 - 💬 Ask me about JavaScript, HTML, CSS, and web development in General
-- 📫 How to reach me: [Abhinav verma](mailto:av438639@gmail.com)
+- 📫 How to reach me: [av438639@gmail.com](mailto:av438639@gmail.com)
 - ⚡ Fun fact: I love Music and Games
 
 ## My Skills
