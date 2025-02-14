@@ -1,6 +1,6 @@
 # Hi there, I'm Abhinav Verma 👋
 [![GitHub followers](https://img.shields.io/github/followers/AbhinavVerma01?label=Follow&style=social)](https://github.com/AbhinavVerma01)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-verma-502728239/)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-verma-502728239/)
 
 ## About Me
 
@@ -35,7 +35,7 @@ I'm a passionate software developer with a strong interest in web development, o
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavVerma01&layout=compact&theme=radical)
 
 ## Connect with Me
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/abhinish.verma.1) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abhinovverma?igsh=MXNmcnBpMXo2d3o4cQ==) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-verma-502728239/))  [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:av438639@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Abhinavverma)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/abhinish.verma.1) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abhinovverma?igsh=MXNmcnBpMXo2d3o4cQ==) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-verma-502728239/)  [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:av438639@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Abhinavverma)
 
 
 
