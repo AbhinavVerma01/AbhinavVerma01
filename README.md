@@ -4,15 +4,15 @@
 
 ## About Me
 
-I'm a passionate software developer with a strong interest in web development, open-source contributions, and learning new technologies. I love to solve problems and build projects that make an impact.
+I'm a passionate software Engineer  with a strong interest in web development, open-source contributions, and learning new technologies. I interested to solve problems and build projects that make an impact.
 
-- 🔭 I’m currently working on various web development projects
-- 🌱 I’m currently learning React, Node.js, and GraphQL
+- 🔭 I’m currently working on various software development projects
+- 🌱 I’m currently learning python, python libraries, djangorestframework and AI-ML.
 - 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with advanced JavaScript concepts
-- 💬 Ask me about JavaScript, HTML, CSS, and web development in general
+- 🤔 I’m looking for help with advanced Python concepts
+- 💬 Ask me about JavaScript, HTML, CSS, and web development in General
 - 📫 How to reach me: [Abhinav verma](mailto:av438639@gmail.com)
-- ⚡ Fun fact: I love hiking and photography
+- ⚡ Fun fact: I love Music and Games
 
 ## My Skills
 
