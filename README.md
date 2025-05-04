@@ -1,3 +1,4 @@
+![Black and White Simple Art Director LinkedIn Banner (1)](https://github.com/user-attachments/assets/c39e9b9e-1cb3-4688-ba98-2a720c23c8da)
 # Hi there, I'm Abhinav Verma 👋
 [![GitHub followers](https://img.shields.io/github/followers/AbhinavVerma01?label=Follow&style=social)](https://github.com/AbhinavVerma01)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-verma-502728239/)
